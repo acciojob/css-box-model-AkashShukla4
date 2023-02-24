@@ -1,18 +1,9 @@
 
 /* Your CSS Code here. */
-div{
-	background: lightblue;
-	width: 300px;
-	padding:50px;
-	padding color: lightblue;
-	border: solid 15px blue;
-	margin:20px;
-}
 p{
+	width:300px;
 	background: lightblue;
-	padding color: lightblue;
-	border: solid 15px blue;
-	margin:20px;
-	border:solid;
-	border:dashed;
+	padding:50px;
+	border: 15px solid blue;
+	margin: 20px;
 }
