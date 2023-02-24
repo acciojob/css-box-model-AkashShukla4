@@ -1,10 +1,18 @@
 
 /* Your CSS Code here. */
-#child{
+div{
 	background: lightblue;
 	width: 300px;
 	padding:50px;
 	padding color: lightblue;
 	border: solid 15px blue;
 	margin:20px;
+}
+p{
+	background: lightblue;
+	padding color: lightblue;
+	border: solid 15px blue;
+	margin:20px;
+	border:solid;
+	border:dashed;
 }
